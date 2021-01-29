@@ -17,11 +17,15 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Eventually.</li>
-        <li>
-          Credits: <a href="http://unsplash.com/">Unsplash</a> +
+        <li>&copy; Living Transformed Inc.</li>
+        {/* <li>
+          Phone: <a href="http://unsplash.com/">Unsplash</a> +
           <a href="http://html5up.net">HTML5 UP</a>
+        </li> */}
+        <li>
+           ‪1601 Vine St, Los Angeles, CA 90028
         </li>
+     
       </ul>
     </footer>
   );
