@@ -1,37 +1,37 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Eventually', // <title>
-  manifestName: 'Eventually',
-  manifestShortName: 'Landing', // max 12 characters
-  manifestStartUrl: '/',
+  siteTitle: 'Living Transformed Inc', // <title>
+  manifestName: 'Living Transformed Inc',
+  manifestShortName: 'Transform', // max 12 characters
+  manifestStartUrl: '/google/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Eventually',
+  heading: 'Living Transformed Inc',
   subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
   socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
+    // {
+    //   icon: 'fa-github',
+    //   name: 'Github',
+    //   url: 'https://github.com/',
+    // },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://twitter.com/',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://facebook.com/',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'info@livingtransformedinc.com',
     },
   ],
 };
