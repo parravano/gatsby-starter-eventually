@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'Living Transformed Inc', // <title>
-  manifestName: 'Living Transformed Inc',
+  siteTitle: 'Living Transformed Construction Inc', // <title>
+  manifestName: 'Living Transformed Construction Inc.',
   manifestShortName: 'Transform', // max 12 characters
   manifestStartUrl: '/google/',
   manifestBackgroundColor: '#663399',
@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Living Transformed Inc',
+  heading: 'Living Transformed Construction Inc',
   subHeading:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+    "Sustainability | Energy Efficiency | Innovative Tech",
   socialLinks: [
     // {
     //   icon: 'fa-github',
